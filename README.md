@@ -174,6 +174,4 @@ Institut Teknologi Sepuluh Nopember (ITS) Surabaya
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
